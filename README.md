@@ -150,7 +150,7 @@ curl -X POST http://127.0.0.1:9000/post \
 -H "Content-Type: application/json" \
 -d '{
   "evtId": "p1",
-  "author": "Jundo",
+  "author": "Jundi",
   "text": "Olá mundo!"
 }'
 ```
@@ -164,7 +164,7 @@ curl -X POST http://127.0.0.1:9001/post \
   "evtId": "r1",
   "parentEvtId": "p1",
   "author": "Maria",
-  "text": "Oi Alice!"
+  "text": "Oi Jundi!"
 }'
 ```
 
