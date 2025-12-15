@@ -21,8 +21,6 @@ As duas versões implementadas são:
 * **Twitter com Consistência Eventual**
 * **Twitter com Consistência Causal**
 
-O objetivo principal é demonstrar, na prática, as diferenças entre esses dois modelos de consistência.
-
 ---
 
 ## 🧩 Parte 1 – Consistência Eventual
