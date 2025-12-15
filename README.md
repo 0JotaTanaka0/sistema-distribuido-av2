@@ -177,8 +177,6 @@ Este trabalho demonstra claramente as diferenças entre **consistência eventual
 * A consistência eventual é mais simples, porém permite estados temporariamente inconsistentes
 * A consistência causal exige mais controle (relógios vetoriais e buffer), mas garante uma ordem lógica correta dos eventos
 
-A implementação evidencia como decisões de projeto em sistemas distribuídos impactam diretamente a experiência e a correção do sistema.
-
 ---
 
 **Disciplina: Sistemas Distribuídos – UFRN**
